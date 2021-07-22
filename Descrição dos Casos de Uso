@@ -1,0 +1,40 @@
+Caso de Uso 1: Monitorar Componente 
+
+Ator Principal: 
+  ● Usuário 
+Interessados e Interesses: 
+  ● Usuário: Interessado em saber mais informações sobre sua residência mesmo estando longe dela. 
+Pré-Condições: 
+  ● O Usuário está identificado e autenticado. 
+Pós-Condições: 
+  ● O Sistema exige as informações sobre o componente desejado 
+Fluxo Principal 
+  1. Usuário loga no aplicativo 
+  2. Usuário seleciona uma residência 
+  3. O usuário seleciona um componente. 
+  4. O Sistema mostra as informações do componente ao usuário. 
+  
+------------------------------------------------------- 
+
+Caso de Uso 2: Alterar grau de segurança 
+
+Ator Principal: 
+  ● Usuário 
+Interessados e Interesses: 
+  ● Usuário: Aumentar ou diminuir o nível de segurança de determinado componente de sua residência 
+Pré-Condições: 
+  ● O usuário está identificado e autenticado.
+Pós-Condições: 
+  ● O nível de segurança do componente é atualizado 
+Fluxo Principal 
+  1. Usuário loga no aplicativo. 
+  2. O usuário seleciona uma residência. 
+  3. O usuário seleciona um componente. 
+  4. O Sistema mostra as informações do componente ao usuário. 
+  5. O Usuário seleciona a opção de alterar o grau de segurança 
+  6. O Sistema pede a autenticação do usuário. 
+  7. O Usuário autentica-se pelo reconhecimento facial ou digital. 8. O grau de segurança é atualizado. 
+Fluxo Alternativo 
+  5. O Usuário seleciona a opção de alterar o grau de segurança. 
+  6. O usuário não consegue se autenticar. 
+  7. O aplicativo retorna um erro.
