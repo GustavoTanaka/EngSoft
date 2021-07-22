@@ -1,0 +1,26 @@
+Extração dos Requisitos 
+
+Requisitos Funcionais 
+- deve deixar CRUD usuário; 
+- deve deixar o usuário definir uma senha para o aplicativo; 
+- deve deixar CRUD casa vinculada a um usuário; 
+- deve deixar CRUD eletrodomésticos, registros e fechaduras; 
+- deve deixar o usuário cadastrar digitais/reconhecimento facial para 
+autenticação; 
+- deve armazenar o estado de funcionamento dos componentes: ligado, desligado; 
+- deve deixar o usuário monitorar o estado de funcionamento dos 
+componentes cadastrados; 
+- deve deixar o usuário alterar o estado de funcionamento dos componentes cadastrados remotamente; 
+- deve deixar o usuário definir alertas para os componentes cadastrados;
+- deve deixar o usuário definir graus de segurança dos componentes cadastrados; - deve deixar personalizar alertas conforme nível de segurança; 
+- deve deixar o usuário definir alertas ao atingir uma determinada distância da residência cadastrada.
+
+Requisitos não funcionais 
+- O sistema deve funcionar online; 
+- O sistema deve autenticar em até 3s; 
+- O sistema deve estar de acordo com as Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1; 
+- O sistema deve ter modo noturno; 
+- Os componentes (sensores) devem estar sempre ativos e transmitindo informações; 
+- O sistema deve exigir autenticação sempre que for mexer com um componente de alto nível de segurança; 
+- O sistema não deverá recolher quaisquer dados de cunho privativo;
+- O sistema deve ser uma aplicação mobile compatível com android e ios.
