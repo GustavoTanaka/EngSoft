@@ -1,0 +1,25 @@
+Qualidade de Produto
+
+● Funcionalidade 
+  ○ Acurácia: medida e uso da cobertura de teste - a liberação do produto não pode ocorrer até que os objetivos de cobertura estejam satisfeitos. 
+  ○ Segurança de Acesso: índice de severidade de defeitos - é importante que não haja defeitos graves que coloquem a segurança em risco. 
+  
+● Confiabilidade 
+  ○ Maturidade: índice de densidade de defeitos - apresenta a taxa de defeitos encontrados, para que se saiba com que frequência apresenta falhas. 
+  ○ Tolerância a falhas: providências adotadas em relação a defeitos - contabiliza os defeitos em função das providências adotadas para correção. 
+  
+● Usabilidade 
+  ○ Operacionalidade: número de ocorrências - se ocorrem muitos defeitos, o programa não é fácil de operar e controlar. 
+  ○ Apreensibilidade: cobertura dos testes - se o usuário consegue utilizar grande parte da funcionalidade do software, ele é fácil de aprender. 
+  
+● Eficiência 
+  ○ Comportamento em Relação ao Tempo: efetividade e eficiência dos testes - verifica os recursos e tempo consumidos. 
+  ○ Comportamento em Relação aos Recursos: efetividade e eficiência dos testes - igual ao anterior, pois também verifica os recursos. 
+  
+● Manutenibilidade 
+  ○ Analisabilidade: tempo médio para encontrar um defeito - verifica quão fácil é encontrar uma falha quando ela ocorre. 
+  ○ Modificabilidade: providências adotadas em relação aos defeitos - verifica também o tempo levado para modificar e remover defeitos.
+  
+● Portabilidade 
+  ○ Coexistência: efetividade e eficiência dos testes - verifica os recursos e tempo consumidos, determinando se é possível compartilhar recursos com outras aplicações. 
+  ○ Adaptabilidade: defeitos por quantidade de linhas de código - permite verificar defeitos em versões futuras e garantir a adaptabilidade para diferentes ambientes.
